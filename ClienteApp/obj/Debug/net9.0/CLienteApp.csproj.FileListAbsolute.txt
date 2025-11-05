@@ -1,0 +1,14 @@
+C:\Sistemas\CSharp\Projeto\ClienteCadastro\ClienteApp\bin\Debug\net9.0\CLienteApp.exe
+C:\Sistemas\CSharp\Projeto\ClienteCadastro\ClienteApp\bin\Debug\net9.0\CLienteApp.deps.json
+C:\Sistemas\CSharp\Projeto\ClienteCadastro\ClienteApp\bin\Debug\net9.0\CLienteApp.runtimeconfig.json
+C:\Sistemas\CSharp\Projeto\ClienteCadastro\ClienteApp\bin\Debug\net9.0\CLienteApp.dll
+C:\Sistemas\CSharp\Projeto\ClienteCadastro\ClienteApp\bin\Debug\net9.0\CLienteApp.pdb
+C:\Sistemas\CSharp\Projeto\ClienteCadastro\ClienteApp\obj\Debug\net9.0\CLienteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\CSharp\Projeto\ClienteCadastro\ClienteApp\obj\Debug\net9.0\CLienteApp.AssemblyInfoInputs.cache
+C:\Sistemas\CSharp\Projeto\ClienteCadastro\ClienteApp\obj\Debug\net9.0\CLienteApp.AssemblyInfo.cs
+C:\Sistemas\CSharp\Projeto\ClienteCadastro\ClienteApp\obj\Debug\net9.0\CLienteApp.csproj.CoreCompileInputs.cache
+C:\Sistemas\CSharp\Projeto\ClienteCadastro\ClienteApp\obj\Debug\net9.0\CLienteApp.dll
+C:\Sistemas\CSharp\Projeto\ClienteCadastro\ClienteApp\obj\Debug\net9.0\refint\CLienteApp.dll
+C:\Sistemas\CSharp\Projeto\ClienteCadastro\ClienteApp\obj\Debug\net9.0\CLienteApp.pdb
+C:\Sistemas\CSharp\Projeto\ClienteCadastro\ClienteApp\obj\Debug\net9.0\CLienteApp.genruntimeconfig.cache
+C:\Sistemas\CSharp\Projeto\ClienteCadastro\ClienteApp\obj\Debug\net9.0\ref\CLienteApp.dll
